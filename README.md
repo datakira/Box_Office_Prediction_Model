@@ -1,6 +1,6 @@
-# Box Office record Prediction Model [수입영화 흥행예측모델]
-
-This was a final project at DataCampus(데이터 청년 캠퍼스) - Yonsei University in 2020.
+# Box Office record Prediction Model
+> 한국데이터산업진흥원 빅데이터 청년인재 프로젝트
+> This was a final project at DataCampus - Yonsei University in 2020
 
 국내 영화 산업이 성장함에 따라 외국영화를 수입하여 상영하려는 시도 또한 활발히 늘어나고 있다.
 2010년 이후 외국영화 수입이 급격히 늘어나면서 과열 경쟁으로 인한 수입가격 또한 폭등하고 있지만
