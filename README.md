@@ -62,7 +62,7 @@
 
 ![캡처4](https://user-images.githubusercontent.com/65406000/116100394-d53af880-a6e7-11eb-8fd2-fb37821892a6.JPG)
 
--
+
 - 리뷰에 언급된 '스토리, 음악, 배우'에 대한 빈도, 긍/부정을 수치화
 
 ![캡처5](https://user-images.githubusercontent.com/65406000/116100977-66aa6a80-a6e8-11eb-929f-3327192a8d1d.JPG)
