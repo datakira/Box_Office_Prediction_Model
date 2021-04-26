@@ -14,7 +14,8 @@
 이 프로젝트에서는 **영화의 기본 정보**와 **리뷰 데이터**로
 *수입된 영화의 흥행 정도를 예측하는 모델*을 구축한다.
 
-![캡처3](https://user-images.githubusercontent.com/65406000/116099224-b9832280-a6e6-11eb-9214-a0fdf3dd02ba.JPG)
+![캡처3](https://user-images.githubusercontent.com/65406000/116101456-c99c0180-a6e8-11eb-8c6b-a813b2acfc27.JPG)
+
 
 
 
@@ -24,7 +25,11 @@
 ## Analytic Process
 
 - 데이터 선정 및 수집
+
+
 - 데이터 전처리
+
+
 - 모델링
 
 
