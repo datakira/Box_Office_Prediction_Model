@@ -83,9 +83,21 @@
 
 
 
-## 3. 
+## 3. 모델링
+
+### 1) 종속변수 등급화
 
 
+영화의 관객수를 기준으로 A,B,C,D,F등급으로 등급화
+![캡처6](https://user-images.githubusercontent.com/65406000/116102652-db31d900-a6e9-11eb-8030-ebdf4b61bb82.JPG)
+
+
+
+### 2) 모델링 결과
+
+리뷰 & 줄거리 데이터 포함 모델 vs 포함하지 않은 모델
+
+![캡처7](https://user-images.githubusercontent.com/65406000/116102736-e97ff500-a6e9-11eb-9792-71ac5da957f4.JPG)
 
 
 
