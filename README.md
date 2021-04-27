@@ -83,11 +83,15 @@
 
 
 ### 5) 다중공선성 처리
-**01. 영화 객관적 속성 데이터**
+**1. 영화 객관적 속성 데이터**
+
 month, openDt_weather, openDt_quarter 은 각각 영화의 개봉월, 날씨, 분기이므로 연관성이 높음 -> **openDt_quarter** 선택
 
 director_revenue와 Domestic 은 각각 감독의 수입과 한국에서의 영화 지출으로 연관성이 높음 -> **Domestic** 선택
 
+**2. 영화 정성적 속성 데이터**
+
+neg, pos, neu, compund 은 모든 토픽(배우, 연기, 연출, 노래, 스토리)에서 파생된 변수로 연관성이 높음 -> **compound** 선택
 
 
 ## 3. 모델링
