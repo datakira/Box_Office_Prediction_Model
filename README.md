@@ -73,13 +73,20 @@
 
 
 ### 3) 스토리 수치화
+- 줄거리 PCA 및 클러스터링
+
+![캡처8](https://user-images.githubusercontent.com/65406000/116259152-84db9d80-a7b0-11eb-9903-728e0febdf4f.JPG)
 
 
 ### 4) 결측치 처리
+- Null 값에 대해 변수의 속성에 맞게 drop, 최빈값 대체, 0으로 대체, 예측값 대체 등 결측치 처리
 
 
 ### 5) 다중공선성 처리
+**01. 영화 객관적 속성 데이터**
+month, openDt_weather, openDt_quarter 은 각각 영화의 개봉월, 날씨, 분기이므로 연관성이 높음 -> **openDt_quarter** 선택
 
+director_revenue와 Domestic 은 각각 감독의 수입과 한국에서의 영화 지출으로 연관성이 높음 -> **Domestic** 선택
 
 
 
