@@ -24,6 +24,7 @@
 
 
 
+
 ## Analytic Process
 
 - 데이터 선정 및 수집
